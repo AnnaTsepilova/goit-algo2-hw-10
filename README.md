@@ -97,8 +97,10 @@ if __name__ == '__main__':
 ### Результати
 
 **Завдання 1**
+
 ![screen](./assets/result_1.png)
 ![screen](./assets/result_2.png)
 
 **Завдання 2**
+
 ![screen](./assets/result_3.png)
